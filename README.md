@@ -1,4 +1,8 @@
 # TypeProlog
+![Rust](https://img.shields.io/badge/rust-1.75+-orange?logo=rust&logoColor=white)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-alpha-red)
+
 TypeProlog - исследовательский проект по **логическому программированию** в **теории типов**.
 
 Реализация зависимого типизированного лямбда-исчисления и использование логического программирования для **поиска термов определённого типа**.
